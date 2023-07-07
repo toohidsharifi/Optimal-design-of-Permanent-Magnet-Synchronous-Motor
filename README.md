@@ -35,3 +35,6 @@ mounted permanent magnet synchronous motor to bring up substantiate features of 
 [4] A. Faramarzi, M. Heidarinejad, B. Stephens, S. Mirjalili, Equilibrium optimizer: A novel optimization algorithm, Knowledge-Based Systems 191 (2020) 105190. doi:https://doi.org/10.1016/j.knosys.2019. 105190.URL https://www.sciencedirect.com/science/article/pii/S0950705119305295
 
 [5] S. J. Benson, L. C. McInnes, J. J. Mor´e, A case study in the performance and scalability of optimization algorithms, ACM Trans. Math. Softw. 27 (3) (2001) 361–376. doi:10.1145/502800.502805. URL https://doi.org/10.1145/502800.502805
+
+![Untitled](https://github.com/toohidsharifi/Optimal-design-of-Permanent-Magnet-Synchronous-Motor/assets/126771405/c71c9d59-5cfb-4821-9c25-702df47e1440)
+![Untitled 2](https://github.com/toohidsharifi/Optimal-design-of-Permanent-Magnet-Synchronous-Motor/assets/126771405/e055f143-b1fe-4bab-b2db-ab2f751bc9b9)
