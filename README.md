@@ -20,9 +20,7 @@ is a vast category for optimization algorithms, and if we want to choose between
 A reliable optimization algorithm for engineering applications should have some specifications such as high convergence speed, robustness, and 
 large-scale capability. Considering all these criteria, we can reliably use the metaheuristic optimization algorithms as they could provide the
 best solutions for benchmark problems and several engineering problems [1-5]. 
-
 ![Picture5](https://github.com/toohidsharifi/Optimal-design-of-Permanent-Magnet-Synchronous-Motor/assets/126771405/61fb2507-7c68-4f9a-97bf-a099be721a9a)
-
 In this project, the cultural algorithm from the family of evolutionary-based algorithms has been implemented on the structure of a surface-
 mounted permanent magnet synchronous motor to bring up substantiate features of torque capability and low cost.
 
