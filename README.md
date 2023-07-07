@@ -29,7 +29,11 @@ mounted permanent magnet synchronous motor to bring up substantiate features of 
 ![Picture3](https://github.com/toohidsharifi/Optimal-design-of-Permanent-Magnet-Synchronous-Motor/assets/126771405/322eeb9f-790b-4f95-81e0-aee235f63bcc)
 
 [1] S. Mirjalili, The ant lion optimizer, Advances in Engineering Software 83 (2015) 80–98. doi:https://doi.org/10.1016/j.advengsoft.2015.01.010.URL https://www.sciencedirect.com/science/article/pii/S0965997815000113
+
 [2] E. Rashedi, H. Nezamabadi-pour, S. Saryazdi, Gsa: A gravitational search algorithm, Information Sciences 179 (13) (2009)2232–2248, special Section on High Order Fuzzy Sets. doi:https://doi.org/10.1016/j.ins.2009.03.004.URL https://www.sciencedirect.com/science/article/pii/S0020025509001200
+
 [3] F. A. Hashim, E. H. Houssein, M. S. Mabrouk, W. Al-Atabany, S. Mirjalili, Henry gas solubility optimization: A novel physics-based algorithm, Future Generation Computer Systems 101 (2019) 646–667. doi:https://doi.org/10.1016/j.future.2019.07.015. URL https://www.sciencedirect.com/science/article/pii/ S0167739X19306557
+
 [4] A. Faramarzi, M. Heidarinejad, B. Stephens, S. Mirjalili, Equilibrium optimizer: A novel optimization algorithm, Knowledge-Based Systems 191 (2020) 105190. doi:https://doi.org/10.1016/j.knosys.2019. 105190.URL https://www.sciencedirect.com/science/article/pii/S0950705119305295
+
 [5] S. J. Benson, L. C. McInnes, J. J. Mor´e, A case study in the performance and scalability of optimization algorithms, ACM Trans. Math. Softw. 27 (3) (2001) 361–376. doi:10.1145/502800.502805. URL https://doi.org/10.1145/502800.502805
