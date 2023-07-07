@@ -1,22 +1,16 @@
-Permanent magnet synchronous motors are a popular option for electric vehicles. The structure of the motor should be optimized to
-push the limits of the efficiency of the whole drive to the maximum point. So, the single and multi-objective optimization techniques
-were implemented on the motor structure for performance improvement. Various expectations are available in the field of motor
-optimization. Torque and cost performances are the most required criterion in most applications. For torque performance, usually
-the average torque, torque ripple, and cogging torque are considered. Similarly, the cost performance can be estimated from the 
-initial cost and power losses of the motor during operation. So, in most industrial projects and research studies, designers 
-attempt to improve them using optimization algorithms. It is essential to mention that there is a vast category for optimization
-algorithms, and if we want to choose between them, we might confuse them a little. A reliable optimization algorithm for engineering
-applications should have some specifications such as high convergence speed, robustness, and large-scale capability. Considering
-all these criteria, we can reliably use the metaheuristic optimization algorithms as they could provide the best solutions for 
-benchmark problems and a number of engineering problems [1-5]. 
+Permanent magnet synchronous motors are a popular option for electric vehicles. The structure of the motor should be optimized to push the limits
+of the efficiency of the whole drive to the maximum point. So, the single and multi-objective optimization techniques were implemented on the mo-
+tor structure for performance improvement. Various expectations are available in the field of motor optimization. Torque and cost performances 
+are the most required criterion in most applications. For torque performance, usually, the average torque, torque ripple, and cogging torque are 
+\considered. Similarly, the cost performance can be estimated from the initial cost and power losses of the motor during operation. So, in most 
+industrial projects and research studies, designers attempt to improve them using optimization algorithms. It is essential to mention that there
+is a vast category for optimization algorithms, and if we want to choose between them, we might confuse them a little. A reliable optimization 
+algorithm for engineering applications should have some specifications such as high convergence speed, robustness, and large-scale capability. 
+Considering all these criteria, we can reliably use the metaheuristic optimization algorithms as they could provide the best solutions for be-
+nchmark problems and several engineering problems [1-5]. 
 
-
-
-
-
-
-
-
+In this project, the cultural algorithm from the family of evolutionary-based algorithms has been implemented on the structure of a surface-
+mounted permanent magnet synchronous motor to bring up substantiate features of torque capability and low cost.
 
 [1] S. Mirjalili, The ant lion optimizer, Advances in Engineering Software 83 (2015) 80–98. doi:https://doi.org/10.1016/j.advengsoft.2015.01.010.URL https://www.sciencedirect.com/science/article/pii/S0965997815000113
 [2] E. Rashedi, H. Nezamabadi-pour, S. Saryazdi, Gsa: A gravitational search algorithm, Information Sciences 179 (13) (2009)2232–2248, special Section on High Order Fuzzy Sets. doi:https://doi.org/10.1016/j.ins.2009.03.004.URL https://www.sciencedirect.com/science/article/pii/S0020025509001200
